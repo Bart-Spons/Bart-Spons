@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bart Spons</h1>
 <h3 align="center">A front-end developer from Amsterdam (Netherlands)</h3>
 
-- 🔭 I’m currently working at [B00](https://www.b00.com/) as Software Develoepr
+- 🔭 I’m currently working at [B00](https://www.b00.com/) as Software Developer
 
 - 📚 Communication & Multimedia Design at Amsterdam University of Applied Science
 
