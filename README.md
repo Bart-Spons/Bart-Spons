@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **info@bartspons.com**
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=bart-spons&count_private=true&show_icons=true&hide=contribs&&amptheme=transparentstyle=max-width:100%;)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=bart-spons&count_private=true&show_icons=true&theme=transparent)
 
-<img src="https://camo.githubusercontent.com/5f4de66e8cbe7605f4b4ab8504996f1f259e0abe79e7e3638e67cd734d1df842/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d7464766c707226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74" alt="Manoah's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bart-spons&amp;count_private=true&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
 
 
 <h3 align="left">Connect with me:</h3>
