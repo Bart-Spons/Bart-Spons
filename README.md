@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **info@bartspons.com**
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=bart-spons&count_private=true&show_icons=true&hide=contribs)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/luckybart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="luckybart" height="30" width="40" /></a>
