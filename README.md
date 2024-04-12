@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bart Spons</h1>
+<h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">A front-end developer from Amsterdam (Netherlands)</h3>
 
 - 🔭 I’m currently working at [B00](https://www.b00.com/) as Software Developer
@@ -13,6 +13,7 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bart-spons&count_private=true&show_icons=true&theme=transparent)
 
+![Bart's GitHub Streaks](https://streak-stats.demolab.com/?user=bart-spons&theme=dark&ring=025bda&fire=025bda&currStreakLabel=025bda&background=00000000&currStreakNum=417e87&sideLabels=025bda&sideNums=417e87)
 
 
 <h3 align="left">Connect with me:</h3>
