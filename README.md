@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bartspons.com](https://www.bartspons.com)
 
-- 📫 How to reach me **info@bartspons.com**
+- 📫 How to reach me **info@bartspons.nl**
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bart-spons&count_private=true&show_icons=true&theme=transparent)
 
