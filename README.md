@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">A front-end developer from Amsterdam (Netherlands)</h3>
 
-- 🔭 I’m currently working at [B00](https://www.b00.com/) as Software Developer
+- 🔭 I’m currently working at Capgemini as a Front-end Developer
 
 - 📚 Communication & Multimedia Design at Amsterdam University of Applied Science
 
-- 🤝 I’m looking for an internship **(Netherlands or abroad)**
+- 🤝 Open to work **(Netherlands or abroad)**
 
 - 👨‍💻 All of my projects are available at [https://www.bartspons.com](https://www.bartspons.com)
 
